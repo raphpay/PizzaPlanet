@@ -13,6 +13,8 @@
 		862FAF7A24C8A87F00B624C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862FAF7924C8A87F00B624C5 /* Assets.xcassets */; };
 		862FAF7D24C8A87F00B624C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862FAF7C24C8A87F00B624C5 /* Preview Assets.xcassets */; };
 		862FAF8024C8A87F00B624C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 862FAF7E24C8A87F00B624C5 /* LaunchScreen.storyboard */; };
+		862FAF8824C8AC6100B624C5 /* MenuTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862FAF8724C8AC6100B624C5 /* MenuTypes.swift */; };
+		862FAF8A24C8B3A000B624C5 /* BigPizzaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862FAF8924C8B3A000B624C5 /* BigPizzaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		862FAF7C24C8A87F00B624C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		862FAF7F24C8A87F00B624C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		862FAF8124C8A87F00B624C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		862FAF8724C8AC6100B624C5 /* MenuTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTypes.swift; sourceTree = "<group>"; };
+		862FAF8924C8B3A000B624C5 /* BigPizzaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigPizzaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				862FAF7324C8A87E00B624C5 /* AppDelegate.swift */,
 				862FAF7524C8A87E00B624C5 /* SceneDelegate.swift */,
 				862FAF7724C8A87E00B624C5 /* ContentView.swift */,
+				862FAF8924C8B3A000B624C5 /* BigPizzaView.swift */,
+				862FAF8724C8AC6100B624C5 /* MenuTypes.swift */,
 				862FAF7924C8A87F00B624C5 /* Assets.xcassets */,
 				862FAF7E24C8A87F00B624C5 /* LaunchScreen.storyboard */,
 				862FAF8124C8A87F00B624C5 /* Info.plist */,
@@ -146,6 +152,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				862FAF8A24C8B3A000B624C5 /* BigPizzaView.swift in Sources */,
+				862FAF8824C8AC6100B624C5 /* MenuTypes.swift in Sources */,
 				862FAF7424C8A87E00B624C5 /* AppDelegate.swift in Sources */,
 				862FAF7624C8A87E00B624C5 /* SceneDelegate.swift in Sources */,
 				862FAF7824C8A87E00B624C5 /* ContentView.swift in Sources */,
