@@ -11,5 +11,5 @@ Pizza Planet is inspired by the Toy Story movie, and this code is made by myself
 
 Here are the screenshots for the project 
 
-<img src="screenshots/image1.png" width="200" >
 <img src="screenshots/image2.png" width="200" >
+<img src="screenshots/image1.png" width="200" >
